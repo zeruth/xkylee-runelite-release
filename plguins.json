@@ -1,0 +1,17 @@
+[
+   {
+      "projectUrl":"https://discord.gg/openosrs",
+      "provider":"Null",
+      "name":"This is a starter JSON",
+      "description":"It makes our weird, slightly dumb system work.",
+      "id":"null",
+      "releases":[
+         {
+            "date":"2021-01-25",
+            "sha512sum":"null",
+            "version":"0.0.0",
+            "url":"null",
+            "requires":"0.0.0"
+         }
+      ]
+   }
